@@ -107,3 +107,53 @@ Java-Basics/
 │   └── Lambda/
 │       └── LambdaAsArgument.java
 │
+
+# Java-Basics 🚀
+
+A well-organized collection of beginner to intermediate Java programs designed to build a solid foundation in Java programming. 
+
+## 📁 Folder Structure
+
+### 01_Basic_IO/
+Simple programs for input and output operations, basic arithmetic, and character manipulation.
+
+### 02_Control_Flow/
+Conditional and branching statements using if-else, switch, and logical operations.
+
+### 03_Mathematical/
+Classic mathematical problems like factorials, Fibonacci, GCD/LCM, prime checks, and more.
+
+### 04_String_Operations/
+String manipulation problems including palindrome checks, anagram detection, and lexicographical sorting.
+
+### 05_Array_Matrix/
+Fundamentals of arrays and matrices: average calculations, matrix operations, and element searching.
+
+### 06_Recursion/
+Basic problems solved using recursion — great for understanding function calls and stack behavior.
+
+### 07_Data_Structures/
+Implementation of fundamental data structures like LinkedList, Stack, Queue, and Binary Tree in Java.
+
+### 08_File_IO/
+Reading, writing, deleting, and counting lines in files using Java’s File and BufferedReader classes.
+
+### 09_Type_Conversion/
+Covers primitive, object, and collection type conversions — useful for day-to-day Java development.
+
+### 10_Advanced_Concepts/
+Includes:
+- **OOP**: Practical OOP concepts like class design, encapsulation, and constructor types.
+- **Exceptions**: Custom exceptions and immutable classes.
+- **Lambda**: Basic usage of Java lambda expressions.
+
+---
+
+
+
+## 📌 Getting Started
+Each `.java` file is standalone. Just compile and run using:
+
+```bash
+javac FileName.java
+java FileName
