@@ -3,7 +3,7 @@ public class MultiplicationTable{
     
     
         
-       static Scanner uin = new Scanner(System.in); //global Scanner
+      public static Scanner uin = new Scanner(System.in); //global Scanner
     
     static void table(int n){
         
